@@ -44,7 +44,7 @@ describe('User APIs Test', () => {
           done();
         });
     });
-    /* describe('POST', () => {
+    describe('POST', () => {
       it('given new invalid user when added should return status 400', (done) => {
         const userDetails = {
           firstName: 456546,
@@ -60,7 +60,7 @@ describe('User APIs Test', () => {
             done();
           });
       });
-    }); */
+    });
     describe('POST', () => {
       it('should return token and status should be 200', (done) => {
         const loginDetails = {
