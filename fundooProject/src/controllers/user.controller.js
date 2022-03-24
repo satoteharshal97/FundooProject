@@ -69,7 +69,6 @@ export const resetPassword = async (req, res, next) => {
     const data = await UserService.resetPassword(req.body);
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
-      token: data,
       message: 'You password is reset successfully'
     });
   } catch (error) {

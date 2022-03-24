@@ -93,10 +93,12 @@ export const forgetPassword = async (userDetails) => {
   if (data) {
     const token = jwt.sign({ email: userDetails.email }, process.env.PASSWORD_SECRET_KEY);
     sendEmail(email, token);
+    return token;
   }
   else {
     throw new Error(`Email does not exist`);
   }
+
 };
 
 
@@ -105,14 +107,9 @@ export const resetPassword = async (body) => {
   try{
     const salt = await bcrypt.genSalt(10);
     const hashedPassword = await bcrypt.hash(body.password, salt);
-    const data = User.findOneAndUpdate({email: body.email}, 
-      {password : hashedPassword}, null, function (err, docs) {
-      if (error){
-          console.log(error)
-      }
-      return data;
-  });
-    
+    const data = await User.findOneAndUpdate({email: body.email}, 
+      {password : hashedPassword} );
+      return data; 
   }catch(error){
     throw new Error("service error", error)
   }

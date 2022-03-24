@@ -39,3 +39,360 @@ info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T0
 info: Connected to the database. {"timestamp":"2022-03-24T02:56:18.609Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T02:56:57.434Z"}
 info: Connected to the database. {"timestamp":"2022-03-24T02:56:57.472Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T06:07:34.156Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T06:07:34.194Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T06:09:07.299Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T06:09:07.326Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T08:38:03.003Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T08:54:02.982Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T08:58:43.345Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T08:58:43.377Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:00:18.484Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T09:00:18.517Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:00:31.467Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T09:00:31.493Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:00:54.484Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T09:00:54.517Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:01:20.056Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T09:01:20.092Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:01:28.976Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T09:01:29.008Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:01:49.694Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T09:01:49.727Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:03:07.539Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:18:49.440Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:20:17.277Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:25:14.468Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:30:45.959Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:32:06.206Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:40:11.532Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:41:01.667Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:46:11.826Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:51:16.142Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:51:56.725Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T09:51:56.750Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:52:17.254Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:54:23.261Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:54:46.001Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T09:57:03.614Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T10:04:54.204Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T10:24:25.056Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T10:25:59.890Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T10:25:59.921Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T10:26:36.101Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:12:32.060Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:33:43.509Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:36:53.943Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:36:58.984Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:38:43.250Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:38:48.292Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:41:54.685Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:44:18.643Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:45:42.980Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:45:43.061Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:47:34.313Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:47:34.386Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:49:09.325Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:49:09.413Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:49:41.905Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:49:41.979Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:51:48.252Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:51:48.332Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:54:52.980Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:54:53.056Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:54:53.112Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:55:42.718Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:55:42.795Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:55:42.861Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:57:05.144Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:57:05.226Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:57:05.285Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:58:00.221Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:58:00.301Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:58:00.352Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T11:59:17.226Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:59:17.304Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T11:59:17.358Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:00:11.450Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:00:11.531Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:01:01.729Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:01:01.795Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:02:31.333Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:02:31.411Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:03:03.788Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:03:03.871Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:03:03.924Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:04:30.120Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:04:30.196Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:04:30.252Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:06:18.094Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:06:18.174Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:06:18.231Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:07:25.302Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:07:25.332Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:08:28.839Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:08:28.921Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:08:28.977Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:09:39.056Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:09:39.087Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:11:02.700Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:11:02.731Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:11:13.931Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:11:14.000Z"}
+error: 
+    status - 500 
+    message - undefined 
+    url - /api/v1/users/resetPassword 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:11:14.069Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:15:40.702Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:15:40.745Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:15:40.828Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:16:31.848Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:16:31.892Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:16:31.976Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:18:36.615Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:18:36.653Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:18:36.742Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:22:00.695Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:22:00.737Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:22:00.810Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:22:53.246Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:22:53.284Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:22:53.362Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:26:26.074Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:26:26.112Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-24T12:26:26.243Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:27:25.733Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:27:25.771Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:28:03.191Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:28:03.228Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:28:53.507Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:28:53.553Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:30:18.603Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:30:18.663Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:31:16.493Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:31:16.532Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:32:16.625Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:32:16.673Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:35:58.291Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:35:58.341Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:38:35.357Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:38:35.395Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:42:30.359Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:42:30.394Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:43:11.132Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:43:11.162Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-24T12:44:56.232Z"}
+info: Connected to the database. {"timestamp":"2022-03-24T12:44:56.265Z"}

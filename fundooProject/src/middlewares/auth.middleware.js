@@ -30,6 +30,7 @@ export const userAuth = async (req, res, next) => {
 export const resetAuth = async (req, res, next) => {
   try {
     let bearerToken = req.header('Authorization');
+    console.log(bearerToken);
     if (!bearerToken)
       throw {
         code: HttpStatus.BAD_REQUEST,
