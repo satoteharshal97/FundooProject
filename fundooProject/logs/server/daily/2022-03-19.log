@@ -1,0 +1,272 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T00:05:35.839Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T00:05:35.884Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T00:12:05.007Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T00:12:05.042Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/note 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-03-19T00:22:28.147Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T00:36:31.775Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T00:36:31.806Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T02:11:42.802Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T02:11:42.857Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T02:35:22.955Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T02:35:22.987Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T02:40:06.575Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T02:40:06.614Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T02:52:50.306Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T02:52:50.335Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T02:53:42.523Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T02:53:42.544Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T08:45:01.319Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T08:45:01.346Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T08:48:09.272Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T08:48:09.306Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T08:48:35.608Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T08:48:35.644Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T08:48:46.445Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T08:48:46.471Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T08:58:48.297Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T08:58:48.331Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:00:03.121Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:00:03.146Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:01:00.376Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:01:00.407Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:02:16.499Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:02:16.531Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:03:31.546Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:03:31.572Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:05:39.889Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:05:39.914Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:06:48.924Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:06:48.949Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:09:17.669Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:09:17.700Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:23:07.455Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:23:07.481Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:25:59.649Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:25:59.675Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:26:16.759Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:26:16.793Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:26:44.183Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:26:44.211Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:26:55.939Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:26:55.973Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: { code: 202, data: '', message: 'Note archived successfully' }
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Windows\System32\FundooProject\fundooProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:267:15)
+    at _callee6$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/note.controller.js:81:37)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/note/isArchived/623542348ff6ec2bd0a09782 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-03-19T09:26:56.430Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:27:14.149Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:27:14.180Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:27:54.743Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:27:54.777Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:28:25.646Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:28:25.671Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:29:53.127Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:29:53.158Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:30:57.181Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:30:57.231Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:33:16.076Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:33:16.099Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:34:00.860Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:34:00.892Z"}
+error: 
+    status - 500 
+    message - ReferenceError: id is not defined
+    at _callee6$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/note.service.js:46:11)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.archiveNote (C:\Windows\System32\FundooProject\fundooProject\src\services\/note.service.js:44:25)
+    at _callee6$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/note.controller.js:80:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/note/isArchived/623542348ff6ec2bd0a09782 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-03-19T09:34:13.767Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:34:34.848Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:34:34.873Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:36:49.394Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:36:49.426Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:39:53.352Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:39:53.379Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:40:12.097Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:40:12.129Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:40:21.272Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:40:21.311Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:46:41.173Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:46:41.196Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:48:19.114Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:48:19.140Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:58:35.334Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:58:35.367Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T09:58:41.339Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T09:58:41.364Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:03:53.178Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:03:53.207Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:04:04.585Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:04:04.619Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:04:13.674Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:04:13.709Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:06:06.343Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:06:06.372Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:07:16.292Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:07:16.322Z"}
+error: 
+    status - 500 
+    message - Error: Can't use $set
+    at ObjectId.SchemaType.castForQuery (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\schematype.js:1586:13)
+    at ObjectId.SchemaType.castForQueryWrapper (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\schematype.js:1558:22)
+    at cast (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\cast.js:311:39)
+    at model.Query.Query.cast (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4937:12)
+    at castQuery (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4738:18)
+    at model.Query.Query._findAndModify (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:3598:23)
+    at model.Query.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:3164:8)
+    at model.Query._wrappedThunk [as _findOneAndUpdate] (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\kareem\index.js:279:20
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\kareem\index.js:103:16)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\kareem\index.js:508:38
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) 
+    url - /api/v1/note/isArchived/623542348ff6ec2bd0a09782 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-03-19T10:07:21.179Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:08:17.344Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:08:17.371Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:11:02.916Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:11:02.944Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:13:09.929Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:13:09.957Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:13:24.298Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:13:24.322Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:21:14.407Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:21:14.434Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:26:36.293Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:26:36.316Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:28:07.678Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:28:07.703Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:28:30.481Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:28:30.510Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:28:36.927Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:28:36.952Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:29:12.293Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:29:12.319Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:49:53.211Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:49:53.239Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:50:50.825Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:50:50.849Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:52:13.935Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:52:13.977Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:52:32.972Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:52:32.998Z"}
+error: 
+    status - 500 
+    message - ReferenceError: id is not defined
+    at _callee7$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/note.service.js:55:11)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.trashNote (C:\Windows\System32\FundooProject\fundooProject\src\services\/note.service.js:53:23)
+    at _callee7$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/note.controller.js:95:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/note/isDeleted/623542348ff6ec2bd0a09782 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-03-19T10:52:35.928Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:52:49.640Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:52:49.665Z"}
+error: 
+    status - 500 
+    message - ReferenceError: id is not defined
+    at _callee7$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/note.service.js:55:11)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.trashNote (C:\Windows\System32\FundooProject\fundooProject\src\services\/note.service.js:53:23)
+    at _callee7$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/note.controller.js:95:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/note/isDeleted/623542348ff6ec2bd0a09782 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-03-19T10:52:53.923Z"}
+error: 
+    status - 500 
+    message - ReferenceError: id is not defined
+    at _callee7$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/note.service.js:55:11)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.trashNote (C:\Windows\System32\FundooProject\fundooProject\src\services\/note.service.js:53:23)
+    at _callee7$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/note.controller.js:95:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/note/isDeleted/623542348ff6ec2bd0a09782 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-03-19T10:52:57.564Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:53:10.002Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:53:10.026Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:53:30.923Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:53:30.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T10:53:55.839Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T10:53:55.863Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T11:00:56.885Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T11:00:56.909Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-19T11:01:03.860Z"}
+info: Connected to the database. {"timestamp":"2022-03-19T11:01:03.884Z"}

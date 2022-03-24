@@ -1,0 +1,455 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "version": "V1",
+        "title": " Fundoo-Notes Application",
+        "description": "A simple CRUD application built with Node, Express and MongoDB"
+    },
+    "host": "localhost:3000",
+    "basePath": "/api/v1",
+    "tags": [
+        {
+            "name": "Default",
+            "description": "Operations about user"
+        }
+    ],
+    "schemes": [
+        "http"
+    ],
+    "consumes": [
+        "application/json"
+    ],
+    "produces": [
+        "application/json"
+    ],
+    "paths": {
+        "/users/registration": {
+            "post": {
+                "tags": ["User"],
+                "description": "Create new user in database",
+                "parameters": [
+                    {
+                        "name": "User Name",
+                        "in": "body",
+                        "description": "Create",
+                        "schema": {
+                            "$ref": "#/definitions/User"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "User is created successfully"
+                    },
+                    "500": {
+                        "description": "Internal server error"
+                    }
+                }
+            }
+        },
+        "/users/login": {
+            "post": {
+                "tags": ["User"],
+                "description": "Login user with email and password",
+                "parameters": [
+                    {
+                        "name": "login user",
+                        "in": "body",
+                        "description": "User Login",
+                        "schema": {
+                            "$ref": "#/definitions/login"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "User has logged in successfully"
+                    },
+                    "500": {
+                        "description": "Internal server error"
+                    }
+                }
+            }
+        },
+        "/users/forgetPassword": {
+            "post": {
+                "tags": ["User"],
+                "description": "User can login using link sent on email provided",
+                "parameters": [
+                    {
+                        "name": "Forget password",
+                        "in": "body",
+                        "description": "User will provide their unique email",
+                        "schema": {
+                            "$ref": "#/definitions/forgetPassword"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "User token link has been provided in email.User can follow as per instructions provided in email"
+                    },
+                    "500": {
+                        "description": "Internal server error"
+                    }
+                }
+            }
+        },
+        "/users/resetPassword": {
+            "put": {
+                "tags": ["User"],
+                "description": "New Password will be required",
+                "parameters": [
+                    {
+                        "name": "Reset Password",
+                        "in": "body",
+                        "description": "Original password will be replaced with new password",
+                        "schema": {
+                            "$ref": "#/definitions/resetPassword"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Password has reset successfully"
+                    },
+                    "401": {
+                        "description": "Unauthorized Error"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ] 
+            }
+        },
+        "/note": {
+            "post": {
+                "tags": ["Note"],
+                "description": "Operations on note of user",
+                "parameters": [
+                    {
+                        "name": "Create Note",
+                        "in": "body",
+                        "description": "New note will be generated for logged in user",
+                        "schema": {
+                            "$ref": "#/definitions/note"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "User has created new note"
+                    },
+                    "401": {
+                        "description": "Unauthorized Error"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ] 
+            },
+            "get": {
+                "tags": ["Note"],
+                "description": "Get all notes",
+                "parameters": [
+                    {
+                        "name": "",
+                        "in": "",
+                        "description": "Get all notes for a specific user",
+                        "schema": {
+                            "$ref": "#/definitions/note"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "User has created new note"
+                    },
+                    "401": {
+                        "description": "Unauthorized Error"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ] 
+            }
+        },
+        "/note/{ID}": {
+            "get": {
+                "tags": ["Note"],
+                "description": "Get a single specific note for  specific user",
+                "parameters": [
+                    {
+                        "name": "ID",
+                        "in": "path",
+                        "description": "Get a  single note by note ID",
+                        "reuired" : true,
+                        "schema": {
+                            "$ref": "#/definitions/note"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "User has created new note"
+                    },
+                    "401": {
+                        "description": "Unauthorized Error"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ] 
+            }
+        },
+        "/note/{noteID}": {
+            "put": {
+                "tags": ["Note"],
+                "description": "Update a note for user",
+                "parameters": [
+                    {
+                        "name": "noteID",
+                        "in": "path",
+                        "description": "Update note"},
+                        {
+                        "name":"Update body",
+                        "in" : "body",
+                        "schema": {
+                            "$ref": "#/definitions/updateNote"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Note is updated successfully"
+                    },
+                    "401": {
+                        "description": "Unauthorized Error"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ] 
+            }
+        },
+        "/note/{noteDeleteID}": {
+            "delete": {
+                "tags": ["Note"],
+                "description": "Delete a note for user",
+                "parameters": [
+                    {
+                        "name": "noteDeleteID",
+                        "in": "path",
+                        "description": "Delete note",
+                        "schema": {
+                            "$ref": "#/definitions/Note"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Note is deleted successfully"
+                    },
+                    "401": {
+                        "description": "Unauthorized Error"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ] 
+            }
+        },
+        "/note/isArchived/{noteisArchivedID}": {
+            "put": {
+                "tags": ["Note"],
+                "description": "Archive note for user",
+                "parameters": [
+                    {
+                        "name": "noteisArchivedID",
+                        "in": "path",
+                        "description": "Archived Note",
+                        "schema": {
+                            "$ref": "#/definitions/updateNote"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Note is archived successfully"
+                    },
+                    "401": {
+                        "description": "Unauthorized Error"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ] 
+            }
+        },
+        "/note/isDeleted/{noteisDeletedID}": {
+            "put": {
+                "tags": ["Note"],
+                "description": "Deleted status for user",
+                "parameters": [
+                    {
+                        "name": "noteisDeletedID",
+                        "in": "path",
+                        "description": "Delete Note",
+                        "schema": {
+                            "$ref": "#/definitions/Note"
+                        }
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "Note is Deleted successfully"
+                    },
+                    "401": {
+                        "description": "Unauthorized Error"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ] 
+            }
+        }
+    },
+    "securityDefinitions": {
+        "JWT": {
+            "type": "apiKey",
+            "name": "Authorization",
+            "in": "header"
+        }
+    },
+    "definitions": {
+        "User": {
+            "type": "object",
+            "properties": {
+                "firstName": {
+                    "type": "string",
+                    "required": true
+                },
+                "lastName": {
+                    "type": "string",
+                    "required": true
+                },
+                "email": {
+                    "type": "string",
+                    "required": true,
+                    "unique": true
+                },
+                "password": {
+                    "type": "string",
+                    "required": true
+                }
+            }
+        },
+        "login": {
+            "type": "object",
+            "properties": {
+                "email": {
+                    "type": "string",
+                    "required": true
+                },
+                "password": {
+                    "type": "string",
+                    "required": true
+                }
+            }
+        },
+        "forgetPassword": {
+            "type": "object",
+            "properties": {
+                "email": {
+                    "type": "string",
+                    "required": true
+                }
+            }
+        },
+        "resetPassword": {
+            "type": "object",
+            "properties": {
+                "password": {
+                    "type": "string",
+                    "required": true
+                }
+            }
+        },
+        "note": {
+            "type": "object",
+            "properties": {
+                "Title": {
+                    "type": "string",
+                    "required": true
+                },
+                "Description": {
+                    "type": "string",
+                    "required": true
+                }
+
+            }
+        },
+        "updateNote": {
+            "type": "object",
+            "properties": {
+                "Title": {
+                    "type": "string",
+                    "required": true
+                },
+                "Description": {
+                    "type": "string",
+                    "required": true
+                }
+            }
+        }
+    }
+}

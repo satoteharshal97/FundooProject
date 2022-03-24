@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs\\requests\\daily\\.66602cdde70fd43456e51d0c9addc83824638c4d-audit.json",
+    "files": [
+        {
+            "date": 1647070367845,
+            "name": "logs\\requests\\daily\\2022-03-12.log",
+            "hash": "51ca40e64f7f9c0ee0e19dfdec867a55"
+        },
+        {
+            "date": 1647165696339,
+            "name": "logs\\requests\\daily\\2022-03-13.log",
+            "hash": "126cade90e90c888b4e76a7129744d74"
+        },
+        {
+            "date": 1647232319650,
+            "name": "logs\\requests\\daily\\2022-03-14.log",
+            "hash": "0d454e240bb13969cba438ec8347cdcc"
+        },
+        {
+            "date": 1647306249887,
+            "name": "logs\\requests\\daily\\2022-03-15.log",
+            "hash": "2e0d368d7b8b7a6acca6ab3652610a4d"
+        },
+        {
+            "date": 1647394861815,
+            "name": "logs\\requests\\daily\\2022-03-16.log",
+            "hash": "f3bdeec185884a1b029d7d1441202120"
+        },
+        {
+            "date": 1647483853813,
+            "name": "logs\\requests\\daily\\2022-03-17.log",
+            "hash": "6e7b028bd6e88e9835e99011a44c7e1c"
+        },
+        {
+            "date": 1647648335747,
+            "name": "logs\\requests\\daily\\2022-03-19.log",
+            "hash": "f886ee909ab2c0506fbc0fbe074415cc"
+        },
+        {
+            "date": 1647775260731,
+            "name": "logs\\requests\\daily\\2022-03-20.log",
+            "hash": "429a30beb73496cc8deb3b54e24a5c4b"
+        },
+        {
+            "date": 1647820183946,
+            "name": "logs\\requests\\daily\\2022-03-21.log",
+            "hash": "5b62efcb8fb5122dc5be3f372a1ef7a9"
+        },
+        {
+            "date": 1647908100985,
+            "name": "logs\\requests\\daily\\2022-03-22.log",
+            "hash": "112d5ac6e9f17d00b034be840804d7ba"
+        },
+        {
+            "date": 1647994069538,
+            "name": "logs\\requests\\daily\\2022-03-23.log",
+            "hash": "84745da586438648d4387ae0d1642c85"
+        },
+        {
+            "date": 1648087024338,
+            "name": "logs\\requests\\daily\\2022-03-24.log",
+            "hash": "454f66716d67a8cc07d8b3f9c4433576"
+        }
+    ],
+    "hashType": "md5"
+}

@@ -1,0 +1,1449 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T01:04:09.970Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:04:13.183Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/login 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2022-03-15T01:04:42.492Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T01:06:59.664Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:07:03.067Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:07:06.050Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T01:07:39.325Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:07:42.175Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:08:42.610Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T01:09:13.580Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T01:09:28.478Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:09:36.676Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:10:15.889Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:10:18.128Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:10:40.720Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:11:09.539Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:11:11.150Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:11:37.303Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:12:24.608Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:13:30.557Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:14:13.978Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:14:48.257Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:15:40.290Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:16:23.301Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:18:41.235Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:18:53.825Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:18:55.518Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:18:56.251Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:18:56.624Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:18:56.966Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:18:57.833Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:19:58.094Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:43:41.890Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:45:57.696Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T01:54:19.508Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:58:20.434Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:58:26.630Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:58:35.582Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T01:59:40.027Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T02:00:10.783Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:10:16.101Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T02:10:19.641Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T02:11:12.615Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:20:15.898Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T02:20:18.766Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T02:20:24.660Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T02:22:58.938Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:23:35.490Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:23:43.565Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T02:23:46.662Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:24:53.289Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "login" (type string) at path "_id" for model "User"
+    at model.Query.exec (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T02:24:56.234Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T02:24:56.368Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:45:47.400Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:46:02.794Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:46:18.389Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T02:46:21.069Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:47:13.324Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:47:33.281Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T02:47:36.017Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:47:44.787Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T02:47:47.382Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:54:31.483Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T02:54:31.571Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:56:06.919Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T02:56:06.988Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T02:56:46.962Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T02:56:47.010Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:03:05.273Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:03:05.318Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:05:41.396Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:05:41.436Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:08:34.711Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:08:34.770Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:09:07.412Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:09:07.466Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:09:30.254Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:09:30.318Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:10:26.078Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:10:26.151Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:11:16.102Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:11:16.160Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:11:55.633Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:11:55.685Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:12:37.952Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:12:37.996Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:13:11.611Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:13:11.658Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:13:40.932Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:13:40.978Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:14:06.075Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:14:06.132Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:14:28.327Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:14:28.375Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:15:12.065Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:15:12.115Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:15:19.999Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:15:20.043Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:15:44.025Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:15:44.078Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:17:17.564Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:17:17.625Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:17:29.103Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:17:29.151Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:22:37.671Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:22:37.725Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:23:10.412Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:23:10.446Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:23:45.668Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:23:45.726Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:24:02.038Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:24:02.085Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T03:24:21.120Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:24:21.207Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:24:24.722Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:24:25.982Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:25:01.437Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:31:19.088Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:31:57.716Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:42:30.216Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:54:45.752Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T03:55:29.857Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:17:37.184Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:17:37.220Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:18:05.037Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:18:05.070Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:27:21.354Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:27:21.395Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:28:20.637Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:28:20.672Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:28:55.701Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:28:55.752Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:38:07.824Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:38:07.847Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:38:29.992Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:38:30.035Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:38:56.930Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:38:56.957Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:39:45.496Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:39:45.530Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:40:07.068Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:40:07.106Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:40:19.418Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:40:19.463Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:42:59.034Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:42:59.061Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:44:41.455Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:44:41.502Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:45:14.152Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:45:14.176Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:46:40.217Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:46:40.265Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:47:06.069Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:47:06.110Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:48:31.187Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:48:31.218Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:48:54.358Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:48:54.393Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:53:08.052Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:53:08.081Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:53:36.039Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:53:36.077Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:53:48.527Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:53:48.563Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T08:59:32.263Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T08:59:32.294Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:02:01.159Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:02:01.203Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:08:37.398Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:08:37.424Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:15:58.150Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:15:58.197Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:16:26.905Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:16:26.959Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:18:16.779Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:18:16.820Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:18:24.140Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:18:24.177Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:18:39.692Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:18:39.727Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:18:54.773Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:18:54.799Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:22:22.916Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:22:22.940Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:39:44.405Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:39:44.440Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:40:01.770Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:40:01.810Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:41:08.322Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:41:08.361Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:43:13.054Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:43:13.103Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:43:20.430Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:43:50.636Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:44:04.668Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:44:50.312Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:45:06.609Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:45:18.672Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:45:25.526Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:45:36.500Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T09:46:12.846Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: Harshal_FundooNotes.users index: email_1 dup key: { email: "Vikas@123@gmail.com" } 
+      url - /api/v1/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-03-15T09:47:44.520Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Windows\System32\FundooProject\fundooProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:267:15)
+    at appErrorHandler (C:\Windows\System32\FundooProject\fundooProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:321:13)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:341:12)
+    at Immediate.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:275:10)
+    at Immediate._onImmediate (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T09:47:44.543Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:48:26.024Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:48:26.057Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:48:36.726Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:48:36.768Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:50:49.268Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:50:49.308Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: Harshal_FundooNotes.users index: email_1 dup key: { email: "Vikas@123@gmail.com" } 
+      url - /api/v1/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-03-15T09:51:19.020Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Windows\System32\FundooProject\fundooProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:267:15)
+    at appErrorHandler (C:\Windows\System32\FundooProject\fundooProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:321:13)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:341:12)
+    at Immediate.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:275:10)
+    at Immediate._onImmediate (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T09:51:19.039Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:52:20.918Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:52:20.951Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: Harshal_FundooNotes.users index: email_1 dup key: { email: "Vikas@123@gmail.com" } 
+      url - /api/v1/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-03-15T09:55:54.370Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Windows\System32\FundooProject\fundooProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:267:15)
+    at appErrorHandler (C:\Windows\System32\FundooProject\fundooProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:321:13)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:341:12)
+    at Immediate.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:275:10)
+    at Immediate._onImmediate (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T09:55:54.392Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T09:59:28.200Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T09:59:28.230Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:00:17.258Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:00:17.287Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:00:27.696Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:00:27.727Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:00:34.684Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:00:34.713Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:14:27.362Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:14:27.389Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:14:38.477Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:14:38.519Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:15:35.681Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:15:35.717Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:15:47.377Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:15:47.408Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:16:17.188Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:16:17.214Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:17:15.861Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:18:01.773Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:18:01.809Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:18:02.031Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:18:10.900Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:18:10.933Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:18:11.010Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:19:12.136Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:19:12.161Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:20:06.289Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:20:06.362Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:20:11.941Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:20:11.965Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:20:45.035Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:20:45.073Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:28:52.451Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:28:52.476Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:31:04.240Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:31:04.292Z"}
+error: 
+    status - 500 
+    message - Error: Email doesnt match
+    at _callee2$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:55:11)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-03-15T10:32:09.331Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:34:10.270Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:34:10.295Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T10:34:17.773Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T10:34:38.654Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T10:34:51.393Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T10:34:56.375Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T10:35:00.790Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:35:42.125Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:35:42.153Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:35:52.345Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:35:52.372Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T10:35:59.731Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:36:50.731Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:36:50.755Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:38:19.575Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:38:19.611Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:38:38.360Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:38:38.394Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:38:45.092Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:38:45.122Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:39:07.301Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:39:07.332Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:39:43.098Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:39:43.131Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:40:01.980Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:40:02.017Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:40:08.577Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:40:08.602Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T10:40:26.604Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T10:42:26.595Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:43:41.789Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:43:41.823Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:43:54.041Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:43:54.066Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" length must be at least 4 characters long 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T10:47:29.929Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:48:11.095Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:48:11.119Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:51:03.936Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:51:03.961Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:53:17.369Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:53:17.397Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:53:34.563Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:53:34.599Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:53:40.458Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:53:40.485Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:54:09.738Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:54:09.774Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:54:23.141Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:54:23.170Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:55:16.087Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:55:16.122Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:55:37.800Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:55:37.837Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:56:01.396Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:56:01.423Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:56:32.225Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:56:32.249Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:56:59.670Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:56:59.704Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:57:06.871Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:57:06.905Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:57:40.443Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:57:40.470Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:58:53.200Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:58:53.229Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:59:08.059Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:59:08.086Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:59:19.376Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:59:19.400Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T10:59:47.628Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T10:59:47.659Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:00:02.175Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:00:02.209Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:07:23.416Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:07:23.448Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:08:12.441Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:08:12.471Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:08:22.778Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:08:22.802Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:08:58.335Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:08:58.368Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:09:28.107Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:09:28.140Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:09:37.880Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:09:37.909Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:10:09.591Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:10:09.617Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:10:22.111Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:10:22.150Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:12:04.770Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:12:04.803Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:12:54.413Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:12:54.441Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:13:10.598Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:13:10.621Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:13:35.333Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:13:35.361Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:13:57.081Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:13:57.107Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:14:18.755Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:14:18.784Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: Harshal_FundooNotes.users index: email_1 dup key: { email: "123joe@gmail.com" } 
+      url - /api/v1/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-03-15T11:14:39.779Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Windows\System32\FundooProject\fundooProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:267:15)
+    at appErrorHandler (C:\Windows\System32\FundooProject\fundooProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:321:13)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:341:12)
+    at Immediate.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:275:10)
+    at Immediate._onImmediate (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T11:14:39.795Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:15:00.743Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:15:00.768Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userDetails is not defined
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:12:46)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:10:26)
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:16:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T11:15:02.848Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:15:15.652Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:15:15.678Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:15:26.268Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:15:26.294Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userDetails is not defined
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:12:46)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:10:26)
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:16:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T11:15:27.829Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userDetails is not defined
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:12:46)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:10:26)
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:16:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T11:15:29.632Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:15:59.402Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:15:59.428Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:16:25.850Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:16:25.874Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:16:54.941Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:16:54.969Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:16:59.348Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:16:59.371Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userDetails is not defined
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:12:46)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:10:26)
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:16:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T11:17:04.512Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:17:28.236Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:17:33.715Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:17:33.737Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: Harshal_FundooNotes.users index: email_1 dup key: { email: "123joe@gmail.com" } 
+      url - /api/v1/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-03-15T11:17:39.800Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Windows\System32\FundooProject\fundooProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:267:15)
+    at appErrorHandler (C:\Windows\System32\FundooProject\fundooProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:321:13)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:341:12)
+    at Immediate.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:275:10)
+    at Immediate._onImmediate (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T11:17:39.816Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:18:35.007Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:18:35.036Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:19:54.890Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:19:54.928Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: Harshal_FundooNotes.users index: email_1 dup key: { email: "123joe@gmail.com" } 
+      url - /api/v1/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-03-15T11:20:16.988Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Windows\System32\FundooProject\fundooProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:267:15)
+    at appErrorHandler (C:\Windows\System32\FundooProject\fundooProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:321:13)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:341:12)
+    at Immediate.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:275:10)
+    at Immediate._onImmediate (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T11:20:17.004Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:20:38.918Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:20:38.941Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:22:10.632Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:22:10.674Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:22:17.999Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:22:18.030Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:23:01.414Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:23:01.447Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:23:12.097Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:23:12.127Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: Harshal_FundooNotes.users index: email_1 dup key: { email: "123joe@gmail.com" } 
+      url - /api/v1/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-03-15T11:23:13.291Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Windows\System32\FundooProject\fundooProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:267:15)
+    at appErrorHandler (C:\Windows\System32\FundooProject\fundooProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:321:13)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:341:12)
+    at Immediate.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:275:10)
+    at Immediate._onImmediate (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T11:23:13.309Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:24:33.894Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:24:33.919Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: Harshal_FundooNotes.users index: email_1 dup key: { email: "123joe@gmail.com" } 
+      url - /api/v1/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-03-15T11:31:13.258Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Windows\System32\FundooProject\fundooProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:267:15)
+    at appErrorHandler (C:\Windows\System32\FundooProject\fundooProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:321:13)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:341:12)
+    at Immediate.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:275:10)
+    at Immediate._onImmediate (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T11:31:13.278Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:31:28.140Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:31:28.170Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:32:05.922Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:32:05.954Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:50:27.181Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:50:27.212Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:50:51.656Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:50:51.697Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:51:12.317Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:51:12.362Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:51:22.293Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:51:22.324Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:51:34.489Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:51:34.524Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:52:40.781Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:52:40.823Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:52:59.173Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:52:59.208Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:53:59.663Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:53:59.693Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:56:06.794Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:56:06.835Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:56:23.054Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:56:23.087Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:56:58.173Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:56:58.206Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.registerUser is not a function
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:16:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at registerForUser (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:13:30)
+    at Layer.handle [as handle_request] (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\route.js:137:13)
+    at newUserValidator (C:\Windows\System32\FundooProject\fundooProject\src\validators\/user.validator.js:16:5)
+    at Layer.handle [as handle_request] (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\route.js:112:3) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T11:57:13.443Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:57:28.071Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:57:28.128Z"}
+error: 
+    status - 500 
+    message - TypeError: UserService.registerUser is not a function
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:16:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at registerForUser (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:13:30)
+    at Layer.handle [as handle_request] (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\route.js:137:13)
+    at newUserValidator (C:\Windows\System32\FundooProject\fundooProject\src\validators\/user.validator.js:16:5)
+    at Layer.handle [as handle_request] (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\route.js:112:3) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T11:57:44.710Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:58:05.034Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:58:05.066Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:58:53.665Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:58:53.713Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T11:59:17.497Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T11:59:17.547Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:00:25.389Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:00:25.439Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:00:30.626Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:01:10.317Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:01:24.039Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:02:26.957Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:02:54.248Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:03:23.598Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:03:23.635Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: Harshal_FundooNotes.users index: email_1 dup key: { email: "78sharmvfvsssdf@gmail.com" } 
+      url - /api/v1/users/registration 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-03-15T12:03:32.055Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Windows\System32\FundooProject\fundooProject\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\response.js:267:15)
+    at appErrorHandler (C:\Windows\System32\FundooProject\fundooProject\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:321:13)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:341:12)
+    at Immediate.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:275:10)
+    at Immediate._onImmediate (C:\Windows\System32\FundooProject\fundooProject\node_modules\express\lib\router\index.js:641:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T12:03:32.081Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:04:41.060Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:04:41.125Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:07:03.159Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:07:03.245Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:07:27.467Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:07:27.515Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:08:06.623Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:08:06.678Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:09:31.519Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:09:31.613Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:09:32.901Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:10:30.640Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:10:55.096Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:10:55.138Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:11:53.178Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:11:53.232Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:15:29.678Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:15:29.721Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:16:51.324Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:16:51.362Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:17:43.689Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:17:43.739Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:18:43.056Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:18:43.106Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:19:56.767Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:19:56.849Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:19:58.050Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:23:30.661Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:23:44.453Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:23:57.446Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:24:30.391Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:25:09.668Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:25:33.020Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:25:33.073Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:27:20.048Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:27:20.087Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:28:12.687Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:28:12.761Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:29:19.911Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:30:16.277Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:30:28.178Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:30:43.351Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:30:52.725Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:31:07.020Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:31:32.130Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:31:32.166Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:35:48.636Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:35:48.722Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:36:05.448Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:36:05.528Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:36:15.015Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:37:17.398Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:37:56.686Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:37:57.898Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:38:25.145Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:38:25.191Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:39:48.537Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:39:48.612Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:41:17.538Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:41:17.579Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:41:46.910Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:41:46.998Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:42:15.771Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:42:15.833Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:43:04.182Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:43:04.319Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:47:53.947Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:47:53.974Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:56:03.634Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:56:03.665Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:56:11.885Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:56:11.921Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:56:21.933Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:56:21.968Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:57:43.106Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:57:43.146Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:57:58.488Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:57:58.527Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:58:11.727Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:58:11.766Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T12:58:29.354Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:58:29.402Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T12:58:31.480Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:00:34.418Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:00:51.237Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:01:28.747Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:01:54.455Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:02:46.891Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:02:46.924Z"}
+error: 
+    status - 500 
+    message - ReferenceError: myPlaintextPassword is not defined
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:11:15)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:9:26)
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:16:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T13:02:57.516Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:03:23.199Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:03:23.229Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:04:15.390Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:04:15.431Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:04:22.491Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:04:22.542Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:04:57.761Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:04:57.795Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:05:07.773Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:05:07.803Z"}
+error: 
+    status - 500 
+    message - ReferenceError: data is not defined
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:21:8)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:9:26)
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:16:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T13:05:12.470Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:05:31.506Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:05:31.538Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:05:40.730Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:05:40.760Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:06:23.639Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:06:23.689Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:06:46.194Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:06:46.230Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:06:56.270Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:06:56.315Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:07:43.644Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:07:43.673Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'then')
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:11:3)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:9:26)
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:16:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T13:07:51.525Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:08:19.161Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:08:19.203Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:08:28.841Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:08:28.872Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'then')
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:11:3)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:9:26)
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:16:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T13:08:31.685Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'then')
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:11:3)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.registerUser (C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:9:26)
+    at _callee$ (C:\Windows\System32\FundooProject\fundooProject\src\controllers\/user.controller.js:16:36)
+    at tryCatch (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Windows\System32\FundooProject\fundooProject\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Windows\System32\FundooProject\fundooProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T13:08:36.065Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:08:53.772Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:08:53.804Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:09:31.735Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:09:31.765Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:09:58.315Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:09:58.344Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:15:12.569Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:15:12.594Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:16:56.938Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:16:56.977Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:17:28.058Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:17:28.096Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:17:44.167Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:17:44.199Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:17:52.368Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:17:52.416Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:18:59.976Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:19:00.006Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:19:45.596Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:19:45.628Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:20:23.975Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:20:24.010Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:20:40.203Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:20:40.243Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:20:47.021Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:20:47.056Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:21:30.531Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:21:30.571Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:22:16.822Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:22:16.860Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:23:24.438Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:23:24.473Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:23:56.765Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:23:56.798Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:24:27.659Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:24:27.688Z"}
+error: 
+    status - 500 
+    message - ObjectParameterError: Parameter "obj" to Document() must be an object, got $2b$10$cG.UPEWVuOPAO3XMbLLyv.Q5o89C1oI5uyjU1xdCEsPCTpfHSLGlu
+    at model.Document (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\document.js:100:11)
+    at model.Model (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\model.js:106:12)
+    at new model (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\model.js:4911:15)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\model.js:3157:22
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\model.js:3193:7
+    at Array.forEach (<anonymous>)
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\model.js:3192:15
+    at C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\index.js:1149:10)
+    at Function.create (C:\Windows\System32\FundooProject\fundooProject\node_modules\mongoose\lib\model.js:3127:23)
+    at C:\Windows\System32\FundooProject\fundooProject\src\services\/user.service.js:13:37 
+    url - /api/v1/users/registration 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-03-15T13:24:44.369Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:25:25.464Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:25:25.495Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:25:47.719Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:25:47.746Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:27:05.339Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:27:05.378Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:27:15.316Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:27:15.362Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:27:30.034Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:27:30.072Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:27:39.511Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:27:39.552Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:28:01.499Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:28:01.527Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:28:36.775Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:28:36.819Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:28:44.353Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:28:44.394Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-15T13:28:58.891Z"}
+info: Connected to the database. {"timestamp":"2022-03-15T13:28:58.925Z"}

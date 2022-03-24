@@ -1,0 +1,180 @@
+info: ::1 - - [14/Mar/2022:04:32:32 +0000] "GET /api/v1/6220b6d7a3a3f56a7443d0d5 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:04:33:00 +0000] "POST /api/v1/%20 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:04:33:22 +0000] "POST /api/v1/%20 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:04:33:26 +0000] "GET /api/v1/%20 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:04:33:30 +0000] "POST /api/v1/%20 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:04:36:01 +0000] "POST /api/v1/%20 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:04:36:11 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
+
+info: ::1 - - [14/Mar/2022:04:36:22 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:04:36:26 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:04:37:39 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:04:37:58 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:04:38:11 +0000] "POST /api/v1/users HTTP/1.1" 500 55 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:04:38:40 +0000] "POST /api/v1/users HTTP/1.1" 500 55 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:04:55:40 +0000] "POST /api/v1/users HTTP/1.1" 500 55 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:34:50 +0000] "POST /api/v1/users HTTP/1.1" 500 55 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:35:36 +0000] "POST /api/v1/users HTTP/1.1" 500 85 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:35:44 +0000] "POST /api/v1/users HTTP/1.1" 500 63 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:36:21 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:05:36:36 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
+
+info: ::1 - - [14/Mar/2022:05:36:55 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:05:38:05 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
+
+info: ::1 - - [14/Mar/2022:05:38:18 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:05:38:49 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:05:38:52 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
+
+info: ::1 - - [14/Mar/2022:05:39:08 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:40:04 +0000] "GET /api/v1/users HTTP/1.1" 500 93 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:42:29 +0000] "POST /api/v1/users HTTP/1.1" 500 55 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:44:42 +0000] "POST /api/v1/users HTTP/1.1" 500 59 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:47:29 +0000] "POST /api/v1/users HTTP/1.1" 201 271 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:55:06 +0000] "POST /api/v1/users/registration HTTP/1.1" 201 272 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:55:31 +0000] "GET /api/v1/users/registration HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:55:39 +0000] "GET /api/v1/users/registration HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:05:56:39 +0000] "POST /api/v1/users/registration HTTP/1.1" 201 272 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:06:30:42 +0000] "GET /api/v1/users/registration HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:06:32:08 +0000] "GET /api/v1/users/registration HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:06:32:17 +0000] "GET /api/v1/users/registration HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:06:32:31 +0000] "POST /api/v1/users/registration HTTP/1.1" 201 272 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:06:34:47 +0000] "GET /api/v1/users HTTP/1.1" 200 37550 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:06:39:09 +0000] "GET /api/v1/users HTTP/1.1" 200 37550 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:06:40:09 +0000] "GET /api/v1/users/registration HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:06:56:09 +0000] "GET /api/v1/users/registration HTTP/1.1" 200 37550 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:07:44:37 +0000] "GET /api/v1/users/registration HTTP/1.1" 200 37550 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:07:45:07 +0000] "GET /api/v1/users/registration/622ee17d768df341882ed896 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:07:45:23 +0000] "GET /api/v1/users/registration/622ee17d768df341882ed896 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:30:10 +0000] "POST /?firstName=Rahul&lastName=Dravid&email=rahul234@gmail.com&password=rahul123 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:32:16 +0000] "POST /users/registration?firstName=Rahul%20&lastName=Dravid&email=rahul123@gmail.com&password=rahul123%23 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:32:25 +0000] "POST /users/registration?firstName=Rahul%20&lastName=Dravid&email=rahul123@gmail.com&password=rahul123%23 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:33:34 +0000] "GET /users/registration HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:08:34:06 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
+
+info: ::1 - - [14/Mar/2022:08:34:19 +0000] "GET /api/v1//users/registration HTTP/1.1" 200 37550 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:34:40 +0000] "POST /api/v1//users/registration HTTP/1.1" 201 273 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:35:42 +0000] "POST /api/v1//users/registration/622efe1f6a7c44353457f860 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:35:49 +0000] "POST /api/v1//users/registration/ HTTP/1.1" 201 273 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:36:02 +0000] "GET /api/v1//users/registration/ HTTP/1.1" 200 37982 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:36:10 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:37:47 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:37:54 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860 HTTP/1.1" 500 48 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:38:03 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:38:07 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:38:11 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:38:14 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:38:35 +0000] "GET /api/v1//users/registration/ HTTP/1.1" 200 37982 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:51:03 +0000] "GET /api/v1//users/registration/ HTTP/1.1" 200 37982 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:51:49 +0000] "GET /api/v1//users/registration/ HTTP/1.1" 200 37982 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:52:14 +0000] "DELETE /api/v1//users/registration/622efe646a7c44353457f862 HTTP/1.1" 200 60 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:52:37 +0000] "GET /api/v1//users/registration/ HTTP/1.1" 200 37766 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:53:12 +0000] "DELETE /api/v1//users/registration/622ee17d768df341882ed896 HTTP/1.1" 200 60 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:53:23 +0000] "GET /api/v1//users/registration/ HTTP/1.1" 200 37551 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:53:48 +0000] "DELETE /api/v1//users/registration/622ed8b9768df341882ed892 HTTP/1.1" 200 60 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:54:01 +0000] "GET /api/v1//users/registration/ HTTP/1.1" 200 37336 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:54:14 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:55:44 +0000] "GET /api/v1//users/registration/ HTTP/1.1" 200 37336 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:57:08 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860?firstName=Rahul&lastName=Dravid&email=rahul324@gmail.com&password=rahul@dravid HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:57:17 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860?firstName=Rahul&lastName=Dravid&email=rahul324@gmail.com&password=rahul@dravid HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:57:32 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860?firstName=Rahul&lastName=Dravid&email=rahul324@gmail.com&password=rahul@dravid HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:57:40 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860?firstName=Rahul&lastName=Dravid&email=rahul324@gmail.com&password=rahul@dravid HTTP/1.1" 500 48 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:08:57:49 +0000] "GET /api/v1//users/registration/622efe1f6a7c44353457f860?firstName=Rahul&lastName=Dravid&email=rahul324@gmail.com&password=rahul@dravid HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:09:12:58 +0000] "POST /api/v1//users/registration/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:09:13:08 +0000] "POST /api/v1/users/registration/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:09:15:11 +0000] "POST /api/v1/registration HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:09:15:26 +0000] "POST /api/v1/registration HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:09:25:53 +0000] "POST /api/v1/registration?firstName=Ruchit&lastName=Parmar&email=Ruchit324@gmail.com&password=Ruchit!234 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:09:26:00 +0000] "POST /api/v1/registration?firstName=Ruchit&lastName=Parmar&email=Ruchit324@gmail.com&password=Ruchit!234 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:09:26:31 +0000] "POST /api/v1/registration?firstName=Ruchit&lastName=Parmar&email=Ruchit324@gmail.com&password=Ruchit!234 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:09:30:39 +0000] "POST /api/v1/users/registration HTTP/1.1" 201 273 "-" "PostmanRuntime/7.29.0"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:11:38:40 +0000] "GET /api/v1/ HTTP/1.1" 200 25 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"
+
+info: ::1 - - [14/Mar/2022:11:38:49 +0000] "POST /api/v1/users/registration HTTP/1.1" 201 273 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:11:51:52 +0000] "GET /api/v1/users/login HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:11:53:17 +0000] "GET /api/v1/users/login HTTP/1.1" 200 491 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [14/Mar/2022:11:54:20 +0000] "GET /api/v1/users/login HTTP/1.1" 200 273 "-" "PostmanRuntime/7.29.0"
+

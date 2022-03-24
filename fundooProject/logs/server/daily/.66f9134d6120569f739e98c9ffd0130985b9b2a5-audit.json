@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs\\server\\daily\\.66f9134d6120569f739e98c9ffd0130985b9b2a5-audit.json",
+    "files": [
+        {
+            "date": 1647070367834,
+            "name": "logs\\server\\daily\\2022-03-12.log",
+            "hash": "f64d48468b924efdded5b7505c26999a"
+        },
+        {
+            "date": 1647165696330,
+            "name": "logs\\server\\daily\\2022-03-13.log",
+            "hash": "d69f400aa557780c12c060703a4e3199"
+        },
+        {
+            "date": 1647232319639,
+            "name": "logs\\server\\daily\\2022-03-14.log",
+            "hash": "f6f74318efb21b94feded20485a68b60"
+        },
+        {
+            "date": 1647306249876,
+            "name": "logs\\server\\daily\\2022-03-15.log",
+            "hash": "aa0de5a02012d22109117a37ecad406f"
+        },
+        {
+            "date": 1647394861802,
+            "name": "logs\\server\\daily\\2022-03-16.log",
+            "hash": "caa3218c6a4e04135a2eac932755e5b5"
+        },
+        {
+            "date": 1647483853804,
+            "name": "logs\\server\\daily\\2022-03-17.log",
+            "hash": "2e4748b60b2c308efda083c875590705"
+        },
+        {
+            "date": 1647648335736,
+            "name": "logs\\server\\daily\\2022-03-19.log",
+            "hash": "3c8a3179a9197894e01f1c20dfdca1dd"
+        },
+        {
+            "date": 1647775260721,
+            "name": "logs\\server\\daily\\2022-03-20.log",
+            "hash": "715abf308c991e2a47fd43e049533eff"
+        },
+        {
+            "date": 1647820183935,
+            "name": "logs\\server\\daily\\2022-03-21.log",
+            "hash": "c927250f520a3245f456f2c071a59121"
+        },
+        {
+            "date": 1647908100967,
+            "name": "logs\\server\\daily\\2022-03-22.log",
+            "hash": "ec2c08cd7ee4815a8883e02f5a0c357e"
+        },
+        {
+            "date": 1647994069526,
+            "name": "logs\\server\\daily\\2022-03-23.log",
+            "hash": "c3c62beeb1ef6551ab4035ce251ce995"
+        },
+        {
+            "date": 1648087024330,
+            "name": "logs\\server\\daily\\2022-03-24.log",
+            "hash": "3fc675750879f80a330822516f93e363"
+        }
+    ],
+    "hashType": "md5"
+}

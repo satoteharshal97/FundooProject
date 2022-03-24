@@ -1,0 +1,4 @@
+info: ::1 - - [20/Mar/2022:11:25:24 +0000] "POST /api/v1/users/registration HTTP/1.1" 201 322 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [20/Mar/2022:11:28:04 +0000] "POST /api/v1/users/registration HTTP/1.1" 201 332 "-" "PostmanRuntime/7.29.0"
+
