@@ -104,13 +104,13 @@ export const forgetPassword = async (userDetails) => {
 
 //Reset Password
 export const resetPassword = async (body) => {
-  try{
+  try {
     const salt = await bcrypt.genSalt(10);
     const hashedPassword = await bcrypt.hash(body.password, salt);
-    const data = await User.findOneAndUpdate({email: body.email}, 
-      {password : hashedPassword} );
-      return data; 
-  }catch(error){
+    const data = await User.findOneAndUpdate({ email: body.email },
+      { password: hashedPassword });
+    return data;
+  } catch (error) {
     throw new Error("service error", error)
   }
 };

@@ -1,19 +1,22 @@
 import Note from '../models/note.model';
-// import bcrypt from 'bcrypt';
-
-//import JSON web token
-// const jwt = require('jsonwebtoken');
-
+import { client } from '../config/redis';
 
 //create a new note
 export const newNote = async (body) => {
   const data = await Note.create(body);
   return data;
 };
-  
+
+/* //Get all notes 
+export const getAllNotes = async (body) => {
+  const data = await Note.find({ UserID: body.UserID });
+  return data;
+}; */
+
 //Get all notes 
 export const getAllNotes = async (body) => {
   const data = await Note.find({ UserID: body.UserID });
+  client.setex('dataKey', 60, JSON.stringify(data));
   return data;
 };
 

@@ -22,7 +22,10 @@ export const userAuth = async (req, res, next) => {
     req.body.UserID = user.email;
     next();
   } catch (error) {
-    next("Error in userAuth", error);
+    res.status(HttpStatus.INTERNAL_SERVER_ERROR).json({
+      code: HttpStatus.INTERNAL_SERVER_ERROR,
+      message: `${error}`
+    });
   }
 };
 
@@ -38,9 +41,9 @@ export const resetAuth = async (req, res, next) => {
       };
     bearerToken = bearerToken.split(' ')[1];
     const user = await jwt.verify(bearerToken, process.env.PASSWORD_SECRET_KEY);
-    if(!user){
+    if (!user) {
       console.log("Token is not valid");
-    }else{
+    } else {
       req.body.email = user.email;
     }
     next();

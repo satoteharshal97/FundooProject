@@ -24,7 +24,7 @@ export const registerUser = (req, res, next) => {
       }
     });
   } catch (error) {
-    next(error);
+    res.status(500).json({ message: error.message || "Some error occurred while creating the Note."});
   }
 };
 

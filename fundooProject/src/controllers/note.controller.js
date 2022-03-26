@@ -2,22 +2,26 @@ import HttpStatus from 'http-status-codes';
 import * as NoteService from '../services/note.service';
 
 
-  //Create single note 
-  export const newNote = async (req, res, next) => {
-    try {
-      const data = await NoteService.newNote(req.body);
-      res.status(HttpStatus.CREATED).json({
-        code: HttpStatus.CREATED,
-        data: data,
-        message: 'Note created successfully'
-      });
-    } catch (error) {
-      next(error);
-    }
-  };
-  
-  //Get all notes
- export const getAllNotes = async (req, res, next) => {
+//Create single note 
+export const newNote = async (req, res, next) => {
+  try {
+    const data = await NoteService.newNote(req.body);
+    res.status(HttpStatus.CREATED).json({
+      code: HttpStatus.CREATED,
+      data: data,
+      message: 'Note created successfully'
+    });
+  } catch (error) {
+    res.status(HttpStatus.INTERNAL_SERVER_ERROR).json({
+      code: HttpStatus.INTERNAL_SERVER_ERROR,
+      message: `${error}`
+    });
+    // res.status(500).json({ message: error.message || "Some error occurred while creating the Note."});
+  }
+};
+
+//Get all notes
+export const getAllNotes = async (req, res, next) => {
   try {
     const data = await NoteService.getAllNotes(req.body);
     res.status(HttpStatus.OK).json({
@@ -26,9 +30,30 @@ import * as NoteService from '../services/note.service';
       message: 'All notes fetched successfully'
     });
   } catch (error) {
-    next("Note", error);
+    res.status(500).send({
+      message: "Some error occurred while retrieving all notes.",
+    });
   }
 };
+
+
+
+/* //Get all notes
+export const getAllNotes = async (req, res, next) => {
+try {
+  const data = await NoteService.getAllNotes(req.body);
+  res.status(HttpStatus.OK).json({
+    code: HttpStatus.OK,
+    data: data,
+    message: 'All notes fetched successfully'
+  });
+} catch (error) {
+  res.status(500).send({
+    message:
+      error.message || "Some error occurred while retrieving all notes.",
+  });
+}
+}; */
 
 //Get a single note by id and userID
 export const getNote = async (req, res, next) => {
@@ -71,7 +96,7 @@ export const deleteNote = async (req, res, next) => {
     next(error);
   }
 };
-  
+
 
 //Archive note by id and UserID
 export const archiveNote = async (req, res, next) => {
