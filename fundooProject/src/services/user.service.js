@@ -1,9 +1,9 @@
 import User from '../models/user.model';
 import bcrypt from 'bcrypt';
 import sendEmail from '../utils/user.util'
-import nodemailer from 'nodemailer';
-//import JSON web token
 import jwt from 'jsonwebtoken';
+import { sendToQueue } from '../utils/sender';
+
 
 
 //create new user
@@ -20,6 +20,9 @@ export const registerUser = (body, callback) => {
             if (error) callback(error, null);
             else {
               callback(null, data);
+              const value = JSON.stringify(data); //convert object to string
+              sendToQueue(value);
+              
             }
           })
         }

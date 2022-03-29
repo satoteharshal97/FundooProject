@@ -16,7 +16,6 @@ export const newNote = async (req, res, next) => {
       code: HttpStatus.INTERNAL_SERVER_ERROR,
       message: `${error}`
     });
-    // res.status(500).json({ message: error.message || "Some error occurred while creating the Note."});
   }
 };
 

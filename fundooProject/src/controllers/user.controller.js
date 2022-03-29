@@ -10,6 +10,8 @@ import * as UserService from '../services/user.service';
  * @param {object} res - response object
  * @param {Function} next
  */
+
+
 export const registerUser = (req, res, next) => {
   try {
     UserService.registerUser(req.body, (error, data) => {

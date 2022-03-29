@@ -1,4 +1,3 @@
-// import redis from "redis";
 import { createClient } from "redis";
 import logger from './logger';
 
