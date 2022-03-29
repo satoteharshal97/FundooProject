@@ -26,7 +26,7 @@ export const registerUser = (req, res, next) => {
       }
     });
   } catch (error) {
-    res.status(500).json({ message: error.message || "Some error occurred while creating the Note."});
+    res.status(500).json({ message: error.message || "Some error occurred while creating the Note." });
   }
 };
 
@@ -65,7 +65,7 @@ export const forgetPassword = async (req, res, next) => {
 };
 
 
- //Reset password
+//Reset password
 export const resetPassword = async (req, res, next) => {
   try {
     const data = await UserService.resetPassword(req.body);
@@ -79,6 +79,6 @@ export const resetPassword = async (req, res, next) => {
       message: `${error}`
     });
   }
-}; 
+};
 
 

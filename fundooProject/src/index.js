@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
 dotenv.config();
-import swaggerUi  from 'swagger-ui-express';
+import swaggerUi from 'swagger-ui-express';
 import swaggerDocument from '../src/swagger/swagger.json';
 import { redisConnect } from './config/redis';
 import express from 'express';
@@ -32,7 +32,7 @@ app.use(express.json());
 app.use(morgan('combined', { stream: logStream }));
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
-//redisConnect();
+redisConnect();
 
 database();
 

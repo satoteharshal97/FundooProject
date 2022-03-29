@@ -91,7 +91,7 @@ describe('User APIs Test', () => {
   //Get all notes by objectId
   describe('GET', () => {
     it('should return 201 when new note is created', (done) => {
-    
+
       request(app)
         .post('/api/v1/note')
         .set('Authorization', `Bearer ${noteToken}`)

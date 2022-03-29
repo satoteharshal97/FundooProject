@@ -7,12 +7,6 @@ export const newNote = async (body) => {
   return data;
 };
 
-/* //Get all notes 
-export const getAllNotes = async (body) => {
-  const data = await Note.find({ UserID: body.UserID });
-  return data;
-}; */
-
 //Get all notes 
 export const getAllNotes = async (body) => {
   const data = await Note.find({ UserID: body.UserID });
@@ -22,14 +16,14 @@ export const getAllNotes = async (body) => {
 
 //Get a single note
 export const getNote = async (id, body) => {
-  const data = await Note.find({_id: id, UserID: body.UserID });
+  const data = await Note.find({ _id: id, UserID: body.UserID });
   return data;
 };
 
 //update single user
 export const updateNote = async (_id, body) => {
   const data = await Note.findByIdAndUpdate(
-    { _id }, body, {new: true}
+    { _id }, body, { new: true }
   );
   return data;
 };
@@ -37,7 +31,7 @@ export const updateNote = async (_id, body) => {
 
 //delete single note by id
 export const deleteNote = async (id, body) => {
-  await Note.findByIdAndDelete({_id: id, UserID: body.UserID });
+  await Note.findByIdAndDelete({ _id: id, UserID: body.UserID });
   return '';
 };
 
@@ -46,16 +40,16 @@ export const deleteNote = async (id, body) => {
 //Archived single note
 export const archiveNote = async (id, body) => {
   const data = await Note.findByIdAndUpdate(
-    {_id: id, UserID: body.UserID}, {isArchived : true, new: true} 
+    { _id: id, UserID: body.UserID }, { isArchived: true, new: true }
   );
   return "";
-}; 
+};
 
 
 //Trashed single note
 export const trashNote = async (id, body) => {
   const data = await Note.findByIdAndUpdate(
-    {_id: id, UserID: body.UserID }, {isDeleted : true , new: true}
+    { _id: id, UserID: body.UserID }, { isDeleted: true, new: true }
   );
   return "";
 };

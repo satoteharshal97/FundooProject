@@ -7,12 +7,11 @@ export const newUserValidator = (req, res, next) => {
     password: Joi.string().min(4).required(),
     email: Joi.string().min(4).required(),
   });
-  
+
   const { error, value } = schema.validate(req.body);
   if (error) {
     next(error);
   } else {
-    // req.validatedBody = value;
     next();
   }
 };

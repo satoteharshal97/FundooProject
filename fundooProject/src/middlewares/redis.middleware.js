@@ -1,6 +1,6 @@
 import { client } from '../config/redis';
 
-
+//redis caching function
 export const cachingFunction = async (req, res, next) => {
     try {
         const value = await client.get('dataKey');

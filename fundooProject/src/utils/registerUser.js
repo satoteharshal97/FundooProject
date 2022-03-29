@@ -15,7 +15,7 @@ function sendEmailUser(email) {
         from: process.env.USER,
         to: email,
         subject: 'User Registration',
-        html: `<h1>User registered successfully</h1>`
+        html: `<h2>User registered successfully</h2>`
  
     };
  
